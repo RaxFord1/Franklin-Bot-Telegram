@@ -106,7 +106,7 @@ callback_analitics = [{}, {}, {}, {}]
 
 
 #bot creating
-TOKEN = "1061044668:AAG9GvEyVTgXcrKsl927zzrr1Zmzg6WMca8"
+TOKEN = ""
 
 bot = TeleBot(TOKEN)
 
